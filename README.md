@@ -1,4 +1,4 @@
-# 🍀 About Me 🍀
+# Contact
 
 ### E-mail 
 <p>
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# 🔥 Skills
+# Skills
 
 ### AI
 <p>
