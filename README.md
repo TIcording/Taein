@@ -2,27 +2,10 @@
 
 ### E-mail 
 <p>
-  <a href="mailto:rhdptjd0416@gmail.com" target="_blank">
+  <a href="mailto:tkaektn9085@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/rhdptjd0416@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-### Portfolio
-
-<p>
-  <a href="https://button-manchego-538.notion.site/4f45779e56f64e80a3fcd8b89559bb56" target="_blank">
-    <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
-  </a>
-</p>
-
-### Tech Blog
-
-<p>
-  <a href="https://coding-yesung.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FDB5B5?style=for-the-badge&logo=tistory&logoColor=black"/>
-  </a>
-</p>
-
 
 # 🔥 Skills
 
@@ -72,8 +55,3 @@
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
 </p>
-
-#
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KoYesung&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoYesung&layout=compact&theme=tokyonight)
